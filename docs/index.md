@@ -9,7 +9,7 @@
 
 -   Free software: MIT License
 -   Documentation: <https://lucasgabrielglez-lang.github.io/geodev>
-    
+
 
 ## Features
 
