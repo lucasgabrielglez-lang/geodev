@@ -16,5 +16,6 @@
 
 -   TODO
 Creat interactive maps with minimal lines of code
-Greatea tools for GIS
+Great tools for GIS
 
+Hello world
